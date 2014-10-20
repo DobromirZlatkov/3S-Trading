@@ -1,0 +1,5 @@
+C:\Users\Dobri\Desktop\GitProjects\3sTrading-SPA-aplication\3sTrading-SPA-aplication\bin\3sTrading-SPA-aplication.dll
+C:\Users\Dobri\Desktop\GitProjects\3sTrading-SPA-aplication\3sTrading-SPA-aplication\bin\3sTrading-SPA-aplication.pdb
+C:\Users\Dobri\Desktop\GitProjects\3sTrading-SPA-aplication\3sTrading-SPA-aplication\obj\Debug\3sTrading-SPA-aplication.csprojResolveAssemblyReference.cache
+C:\Users\Dobri\Desktop\GitProjects\3sTrading-SPA-aplication\3sTrading-SPA-aplication\obj\Debug\3sTrading-SPA-aplication.dll
+C:\Users\Dobri\Desktop\GitProjects\3sTrading-SPA-aplication\3sTrading-SPA-aplication\obj\Debug\3sTrading-SPA-aplication.pdb

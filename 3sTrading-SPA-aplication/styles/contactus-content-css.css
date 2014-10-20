@@ -1,0 +1,15 @@
+﻿#contactus-page-content{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+#contactus-page-content h3{
+    background-color:gray;
+}
+#contactus-page-content ul li{
+    display:block;
+    font-weight:bolder;
+}
+#location-container{
+    height:70%;
+}

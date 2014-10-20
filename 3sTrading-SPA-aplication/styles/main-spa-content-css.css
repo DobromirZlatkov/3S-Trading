@@ -1,0 +1,170 @@
+﻿body, div, ul, nav, section, li, a, img, p, h1, h2, h3, h4, h5, h6, input, footer {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+.hidden {
+    display: none;
+}
+
+#main-container {
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+    width: 980px;
+    margin: 0 auto;
+    position: relative;
+    background-color: white;
+    z-index: 1;
+}
+
+#main-content {
+    width: 100%;
+    height: 700px;
+}
+
+li, #moto-container, #social-links-container {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+}
+
+#main-navigation {
+    background-color: rgba(230, 230, 230,0.8);
+    width: 100%;
+    z-index: 10;
+    display: block;
+    position: absolute;
+}
+
+    #main-navigation ul {
+        margin-left: 18em;
+    }
+
+    #main-navigation li {
+        display: inline;
+        list-style: none;
+    }
+
+        #main-navigation li a {
+            display: block;
+            padding: 20px 25px 20px 25px;
+            float: left;
+            margin: 0 0px 0 0;
+            color: black;
+        }
+
+            #main-navigation li a:hover {
+                background-color: darkblue;
+                color: white;
+            }
+
+#corporate-logo {
+    position: absolute;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+    z-index: 11;
+}
+
+#site-meta {
+    height: 85px;
+    position: relative;
+    text-align: left;
+}
+
+#main-info-section {
+    background-color: rgb(28, 32, 33);
+    height: 60px;
+}
+
+    #main-info-section h1 {
+        font-size: 1.5em;
+        color: white;
+    }
+
+#moto-container {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+#social-links-container {
+    float: right;
+}
+
+.social-list-nav ul li {
+    float: left;
+}
+
+    .social-list-nav ul li a {
+        color: white;
+        display: block;
+        padding: 20px 30px;
+    }
+
+
+        .social-list-nav ul li a:hover {
+            background-color: blue;
+        }
+
+    .social-list-nav ul li:first-child {
+        background-color: rgb(52, 82, 148);
+    }
+
+    .social-list-nav ul li:nth-child(2) {
+        background-color: rgb(45, 206, 195);
+    }
+
+    .social-list-nav ul li:nth-child(3) {
+        background-color: red;
+    }
+
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+    footer p, a {
+        color: white;
+    }
+
+    footer nav ul {
+        font-size: 17px;
+        padding-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    footer a {
+        padding: 0px 5px;
+    }
+
+        footer a:hover {
+            color: green;
+        }
+
+article {
+    /*border-radius:110px;
+            border:none;*/
+}
+
+h3 {
+    font-size: 2.5em;
+    color: white;
+    padding: 10px 0;
+}
